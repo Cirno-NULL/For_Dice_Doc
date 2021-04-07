@@ -7,4 +7,3 @@
 ## 域名
 
 note.nullkun.icu
-
