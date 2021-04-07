@@ -1,3 +1,5 @@
-# For_nothing   
-内置指令的使用方法准备放cirno.nullkun.xyz里了   
-这里只是单纯的占坑   
+# 大概是笔记
+大概是用来做笔记用的
+
+## 域名
+note.nullkun.icu
