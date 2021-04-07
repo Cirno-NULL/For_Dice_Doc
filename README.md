@@ -6,4 +6,5 @@
 
 ## 域名
 
-note.nullkun.icu
+[note.nullkun.icu](https://note.nullkun.icu)
+
