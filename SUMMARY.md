@@ -6,5 +6,7 @@
 * [C](c/README.md)
   * [test](c/test.md)
 * [数据结构与算法](data-structure/README.md)
+  * [数据结构](data-structure/data-structure.md)
   * [排序算法](data-structure/sort.md)
+  * [加密算法](data-structure/encryption-algorithm.md)
 
