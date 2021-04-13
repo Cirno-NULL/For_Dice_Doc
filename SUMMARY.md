@@ -9,6 +9,6 @@
   * [test](lua/test.md)
 * [C](c/README.md)
   * [test](c/test.md)
-* [硬件](hardware.md)
-* [TF卡](microsd.md)
+* [硬件](hardware/README.md)
+  * [TF卡\(micro sd卡\)](hardware/tf-card.md)
 
