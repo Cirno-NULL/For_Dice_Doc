@@ -10,5 +10,5 @@
 * [C](c/README.md)
   * [test](c/test.md)
 * [硬件](hardware/README.md)
-  * [TF卡\(micro sd卡\)](hardware/tf-card.md)
+  * [SD卡](hardware/sdcard.md)
 
