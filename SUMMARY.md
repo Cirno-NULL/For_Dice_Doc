@@ -9,4 +9,6 @@
   * [test](lua/test.md)
 * [C](c/README.md)
   * [test](c/test.md)
+* [硬件](hardware.md)
+* [TF卡](microsd.md)
 
