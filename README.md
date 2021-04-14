@@ -11,6 +11,7 @@
 * [数据结构与算法](data-structure/)
 * [Lua](lua/)
 * [C](c/)
+* [硬件](hardware/)
 
 ## 域名
 
