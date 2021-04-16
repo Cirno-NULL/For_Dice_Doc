@@ -12,6 +12,7 @@
 * [Lua](lua/)
 * [C](c/)
 * [硬件](hardware/)
+* [刷机](flash.md)
 
 ## 域名
 

@@ -11,4 +11,5 @@
   * [test](c/test.md)
 * [硬件](hardware/README.md)
   * [SD卡](hardware/sdcard.md)
+* [刷机](flash.md)
 
