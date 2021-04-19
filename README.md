@@ -12,7 +12,7 @@
 * [Lua](lua/)
 * [C](c/)
 * [硬件](hardware/)
-* [刷机](android/)
+* [安卓](android/)
 
 ## 域名
 

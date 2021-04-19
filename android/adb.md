@@ -1,5 +1,7 @@
 # adb
 
+
+
 | 系统界面 | 指令 |
 | :--- | :--- |
 | 进入adb | adb shell    \|   adb start-server |
