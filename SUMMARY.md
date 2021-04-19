@@ -11,5 +11,7 @@
   * [test](c/test.md)
 * [硬件](hardware/README.md)
   * [SD卡](hardware/sdcard.md)
-* [刷机](flash.md)
+* [安卓](android/README.md)
+  * [刷机](android/flash.md)
+  * [adb](android/adb.md)
 
