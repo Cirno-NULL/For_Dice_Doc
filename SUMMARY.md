@@ -14,4 +14,6 @@
 * [安卓](android/README.md)
   * [刷机](android/flash.md)
   * [adb](android/adb.md)
+* [Windows](windows/README.md)
+  * [开机自启](windows/start.md)
 
