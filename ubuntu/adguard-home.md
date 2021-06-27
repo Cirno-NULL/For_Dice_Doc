@@ -20,3 +20,12 @@ sudo /opt/AdGuardHome/AdGuardHome -s start|stop|restart|status|install|uninstall
 
 解决方法:[链接](https://github.com/AdguardTeam/AdGuardHome/wiki/FAQ#bindinuse)
 
+实际我用的解决方法：
+
+```text
+lsof -i:53
+kill pid
+```
+
+
+
