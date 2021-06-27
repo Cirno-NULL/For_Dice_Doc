@@ -23,9 +23,17 @@ sudo /opt/AdGuardHome/AdGuardHome -s start|stop|restart|status|install|uninstall
 实际我用的解决方法：
 
 ```text
+第一种
 lsof -i:53
 出来了一大堆的named的玩意，pid是606
 kill 606
+
+第二种
+sudo netstat -anlp | grep -w LISTEN
+sudo systemctl stop named
+
+暂时不知道哪种方法更ok一点
+所以全用上了，能用就行.jpg
 ```
 
 
