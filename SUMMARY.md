@@ -17,4 +17,6 @@
 * [Windows](windows/README.md)
   * [剪贴板](windows/clipboard.md)
   * [开机自启](windows/start.md)
+* [Ubuntu](ubuntu/README.md)
+  * [Adguard Home](ubuntu/adguard-home.md)
 
