@@ -24,7 +24,8 @@ sudo /opt/AdGuardHome/AdGuardHome -s start|stop|restart|status|install|uninstall
 
 ```text
 lsof -i:53
-kill pid
+出来了一大堆的named的玩意，pid是606
+kill 606
 ```
 
 
