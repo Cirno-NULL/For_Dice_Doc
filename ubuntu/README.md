@@ -1,4 +1,4 @@
 # Ubuntu
 
-[Adguard Home](adguard-home.md)
+* [Adguard Home](adguard-home.md)
 

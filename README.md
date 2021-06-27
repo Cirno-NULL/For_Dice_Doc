@@ -13,8 +13,6 @@
 * [C](c/)
 * [硬件](hardware/)
 * [安卓](android/)
-* [Windows](windows/)
-* [Ubuntu](ubuntu/)
 
 ## 域名
 
