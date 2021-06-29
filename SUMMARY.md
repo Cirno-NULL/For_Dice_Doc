@@ -16,6 +16,7 @@
   * [刷机](android/flash.md)
   * [adb](android/adb.md)
 * [Windows](windows/README.md)
+  * [桌面黑屏](windows/desktop-black.md)
   * [剪贴板](windows/clipboard.md)
   * [开机自启](windows/start.md)
 * [Ubuntu](ubuntu/README.md)
