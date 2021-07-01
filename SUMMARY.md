@@ -18,7 +18,8 @@
 * [Windows](windows/README.md)
   * [桌面黑屏](windows/desktop-black.md)
   * [剪贴板](windows/clipboard.md)
-  * [开机自启](windows/start.md)
+  * [开机自启](windows/start/README.md)
+    * [用于模板修改](windows/start/testmod.md)
 * [Ubuntu](ubuntu/README.md)
   * [Adguard Home](ubuntu/adguard-home.md)
 
