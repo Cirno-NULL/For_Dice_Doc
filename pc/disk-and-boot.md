@@ -77,9 +77,11 @@
       <td style="text-align:left">winload.exe</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x53EF;&#x80FD;&#x8FD8;&#x6709;&#x66F4;&#x591A;&#x7684;&#x533A;&#x522B;</td>
+      <td
+      style="text-align:left">&#x4F46;&#x662F;&#x6211;&#x80FD;&#x67E5;&#x5230;&#x7684;&#x5C31;&#x8FD9;&#x4E9B;</td>
+        <td
+        style="text-align:left">&#x6240;&#x4EE5;&#x5C31;&#x8FD9;&#x6837;&#x4E86;</td>
     </tr>
   </tbody>
 </table>
