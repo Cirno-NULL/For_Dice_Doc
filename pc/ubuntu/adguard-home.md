@@ -1,12 +1,12 @@
 # Adguard Home
 
-### 下载安装
+## 下载安装
 
 ```text
 curl -s -S -L https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -v
 ```
 
-### 启动停止等
+## 启动停止等
 
 ```text
 sudo /opt/AdGuardHome/AdGuardHome -s start|stop|restart|status|install|uninstall
@@ -14,9 +14,9 @@ sudo /opt/AdGuardHome/AdGuardHome -s start|stop|restart|status|install|uninstall
 
 用到的一些教程,实验中
 
-### 一些问题
+## 一些问题
 
-#### listen udp 0.0.0.0:53: bind: address already in use
+### listen udp 0.0.0.0:53: bind: address already in use
 
 解决方法:[链接](https://github.com/AdguardTeam/AdGuardHome/wiki/FAQ#bindinuse)
 
@@ -35,6 +35,4 @@ sudo systemctl stop named
 暂时不知道哪种方法更ok一点
 所以全用上了，能用就行.jpg
 ```
-
-
 
