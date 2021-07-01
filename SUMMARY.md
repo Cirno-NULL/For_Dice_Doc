@@ -16,6 +16,7 @@
   * [刷机](android/flash.md)
   * [adb](android/adb.md)
 * [pc](pc/README.md)
+  * [磁盘和引导](pc/disk-and-boot.md)
   * [Windows](pc/windows/README.md)
     * [桌面黑屏](pc/windows/desktop-black.md)
     * [剪贴板](pc/windows/clipboard.md)
