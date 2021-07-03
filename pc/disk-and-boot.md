@@ -134,10 +134,5 @@ sudo apt-get install -y boot-repair && boot-repair
 boot repair
 ```
 
-1. 不知道为啥始终无法修复ubuntu自己的引导
-2. 在只有ubuntu所在硬盘的情况下运行这个东西的自动修复
-3. Ubuntu直接进不去了
-4. UEFI格式似乎也无法修改
-5. 貌似是修复Grub的工具
-6. 所以GRUB是个啥玩意？
+* 这到底是拿来修复什么东西的？
 
