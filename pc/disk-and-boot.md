@@ -1,5 +1,32 @@
 # 磁盘和引导
 
+## 一些很有价值的相关文章
+
+正在整理中
+
+* [BIOS, UEFI, MBR, Legacy, GPT等概念整理](https://zhuanlan.zhihu.com/p/36976698)
+  * （2018年）
+  * 基础，概念性扫盲
+  * 名词解释+扩展介绍
+  * 没有覆盖所有的名词，新手向简单科普
+* [科普贴：BIOS和UEFI的启动项](https://zhuanlan.zhihu.com/p/31365115)
+  * （2018年）
+  * 进阶，详解引导原理和过程
+  * 目前看的半懂不懂的
+* [BIOS、MBR、PBR等基础知识](https://blog.csdn.net/huangxy10/article/details/8166802)
+  * （2012年）
+  * 进阶，有很多扩展内容
+  * 主要详解MBR格式硬盘的开机流程
+  * 没有GPT内容，注意时间
+* [关于UEFI启动+GPT分区的一些经验](https://zhuanlan.zhihu.com/p/37977078)
+  * （2018年）
+  * 细节性经验书
+  * 目前看的半懂不懂的
+
+## 暂时没看明白有待整理的一些碎片
+
+* 目前上面的所有东西都没看懂没法整理
+
 ## 磁盘分类
 
 | 磁盘分类（未记录全部） |
@@ -33,11 +60,6 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x6D3B;&#x52A8;&#x4E3B;&#x5206;&#x533A;&#x6570;&#x91CF;</td>
-      <td style="text-align:left">&#x6700;&#x591A;&#x4E00;&#x4E2A;</td>
-      <td style="text-align:left">&#x2014;&#x2014;&#x65E0;&#x6B64;&#x6982;&#x5FF5;&#x2014;&#x2014;</td>
-    </tr>
-    <tr>
       <td style="text-align:left">&#x5206;&#x533A;&#x540D;&#x5B57;&#x957F;&#x5EA6;</td>
       <td style="text-align:left">&#x6CA1;&#x67E5;&#x5230;&#xFF0C;&#x8C8C;&#x4F3C;16&#x5B57;&#x8282;</td>
       <td
@@ -69,6 +91,11 @@
       style="text-align:left">&#x65E0;&#x6CD5;&#x8BC6;&#x522B;GPT&#x683C;&#x5F0F;&#x5206;&#x533A;</td>
     </tr>
     <tr>
+      <td style="text-align:left">&#x5F15;&#x5BFC;&#x5206;&#x533A;</td>
+      <td style="text-align:left">ESP&#x5206;&#x533A;</td>
+      <td style="text-align:left">&#x6D3B;&#x52A8;&#x4E3B;&#x5206;&#x533A;</td>
+    </tr>
+    <tr>
       <td style="text-align:left">&#x754C;&#x9762;</td>
       <td style="text-align:left">&#x53EF;&#x4EE5;&#x505A;&#x6210;&#x56FE;&#x5F62;&#x5316;&#x754C;&#x9762;</td>
       <td
@@ -92,13 +119,6 @@
   </tbody>
 </table>
 
-## 未知的层面：
-
-1. MBR转gpt以后Legacy引导会失去效果，那么怎么转至UEFI引导？
-2. UEFI似乎无法和Legacy互转？
-3. UEFI引导似乎有很多种？
-4. PE启动盘似乎也能同时安装多种系统安装工具，但是不知道怎么制作
-
 ## 已知的MBR格式硬盘Windows引导修复方式：
 
 1. 找到一个PE盘
@@ -120,6 +140,4 @@ boot repair
 4. UEFI格式似乎也无法修改
 5. 貌似是修复Grub的工具
 6. 所以GRUB是个啥玩意？
-
-
 
