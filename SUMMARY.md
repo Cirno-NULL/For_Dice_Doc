@@ -18,7 +18,7 @@
 * [pc](pc/README.md)
   * [磁盘和引导](pc/disk-and-boot.md)
   * [Windows](pc/windows/README.md)
-    * [桌面黑屏](pc/windows/desktop-black.md)
+    * [Win11桌面黑屏](pc/windows/win11-desktop-black.md)
     * [剪贴板](pc/windows/clipboard.md)
     * [开机自启](pc/windows/start/README.md)
       * [用于模板修改](pc/windows/start/testmod.md)
