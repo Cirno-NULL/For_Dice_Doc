@@ -92,7 +92,10 @@
       style="text-align:left">&#x65E0;&#x6CD5;&#x8BC6;&#x522B;GPT&#x683C;&#x5F0F;&#x5206;&#x533A;</td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x5F15;&#x5BFC;&#x5206;&#x533A;</td>
+      <td style="text-align:left">
+        <p>&#x5F15;&#x5BFC;&#x5206;&#x533A;</p>
+        <p>&#xFF08;&#x53EF;&#x80FD;&#x4E0E;&#x4E8B;&#x5B9E;&#x6709;&#x51FA;&#x5165;&#xFF09;</p>
+      </td>
       <td style="text-align:left">ESP&#x5206;&#x533A;</td>
       <td style="text-align:left">&#x6D3B;&#x52A8;&#x4E3B;&#x5206;&#x533A;</td>
     </tr>
