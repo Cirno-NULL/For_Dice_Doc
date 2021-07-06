@@ -176,3 +176,12 @@ boot repair
   * 开源，免费
   * 使用前先调整一下默认设置，按需更改
 
+## 可用的windows系统下Legacy转UEFI方式
+
+1. 用管理员权限打开cmd或者powershell
+2. 用diskpart工具中的list disk选项确认要转换的硬盘的编号
+3. 使用`mbr2gpt /validate /disk:你系统盘编号 /allowFullOS`确认是否能进行转换
+   1. 如果验证失败会提供`Disk layout validation failed for disk 0`的报错
+4. 输入`mbr2gpt /convert /disk:你系统盘编号 /allowfullos`转换
+5. 重启
+
