@@ -288,11 +288,11 @@ drop table 表名
   可以拿来做有向图  
     ```
     SELECT * from emp;
-    
+
     SELECT * from emp e,emp m 
     WHERE e.ename ="克拉克" 
     and e.mgr = m.empid;
-    
+
     SELECT e.empid,e.ename,
     e.job,e.mgr,e.hiredate,
     e.sal,e.deptno,m.ename,
@@ -445,5 +445,4 @@ and e1.sal > e2.avgsal;
 #多表查询*1
 #连接*1
 #对比*1
-
 ```
