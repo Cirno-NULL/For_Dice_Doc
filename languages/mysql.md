@@ -20,25 +20,21 @@ create table 表名(
 desc 表名;
 ```
 ## 修改表,增加字段
-
 ```
 alter table 表名 add column 键值 数据类型()
 ```
-
 ## 修改表,改变字段属性
 ```
 alter  table 表名 modify 键值名 数据类型
 ```
-
 ## 修改表,删除字段
 ```
 alter table 表名 drop column 键值名
 ```
-
 ## 数据操作语言
-insert
-update
-delete
+  * insert
+  * update
+  * delete
 
 ## insert
 ```
@@ -124,7 +120,7 @@ select count(*)from emp
 #元素总数
 ```
 * ifnull null值替换
-```
+```text
 SELECT ifnull(comm,0) FROM emp;
 #替换null为第二个跟随的值
 
@@ -428,6 +424,9 @@ ORDER BY sal desc
 INTO OUTFILE 'D:\me\\test.csv'
 ```
 
+
+
+
 ## 还没想好怎么分类的查询方法
 ```
 SELECT * from emp where comm is null;
@@ -449,4 +448,5 @@ and e1.sal > e2.avgsal;
 #多表查询*1
 #连接*1
 #对比*1
+
 ```
