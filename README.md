@@ -11,13 +11,12 @@
 {% endhint %}
 
 ## 目录
-
 * [数据结构与算法](data-structure/)
-* [Lua](languages/lua/)
-* [C](languages/c/)
 * [硬件](hardware/)
 * [安卓](android/)
 * [PC](pc/)
+* [语言](languages/)
+
 
 ## 域名
 
