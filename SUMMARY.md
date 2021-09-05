@@ -27,5 +27,6 @@
     * [test](languages/lua/test.md)
   * [Selenium](languages/selenium.md)
   * [mysql](languages/mysql.md)
-  * [Python](languages/python.md)
+  * [Python](languages/python/README.md)
+    * [Untitled](languages/python/untitled.md)
 

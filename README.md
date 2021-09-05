@@ -13,8 +13,8 @@
 ## 目录
 
 * [数据结构与算法](data-structure/)
-* [Lua](lua/)
-* [C](c/)
+* [Lua](languages/lua/)
+* [C](languages/c/)
 * [硬件](hardware/)
 * [安卓](android/)
 * [PC](pc/)
