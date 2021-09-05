@@ -24,4 +24,8 @@
       * [用于模板修改](pc/windows/start/testmod.md)
   * [Ubuntu](pc/ubuntu/README.md)
     * [Adguard Home](pc/ubuntu/adguard-home.md)
+* [计算机语言](languages/README.md)
+  * [Selenium](languages/selenium.md)
+  * [mysql](languages/mysql.md)
+  * [Python](languages/python.md)
 
