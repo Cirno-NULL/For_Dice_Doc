@@ -133,9 +133,7 @@ SELECT sal,comm,sal+ifnull(comm,0) from emp;
 * date_format 日期格式化
 ```
 select DATE_FORMAT(now(),"%Y-%m-%d %H:%I:%s") from dual;
-
 SELECT DATE_FORMAT(now(),'%Y-%m:%I%s') from dual;
-
 select str_to_date('1980-12-17','%Y-%m-%d') from dual;
 #日期格式化
 ```
@@ -193,11 +191,9 @@ SELECT * from emp WHERE sal > 1000
 SELECT * from emp WHERE sal > 1000 and job ='办事员' and deptno =10
 select * from emp where job in('办事员','salesman');
 #多条件查询
-
 SELECT * from emp WHERE sal > 1000 
 and job in('办事员','salesman') and deptno =10
 #in的多条件连接，and的多条件连接
-
 select * from emp where sal >1000 
 and (job='办事员' or job='salesman');
 #or的多条件连接（注：and是串联，or是并联）
@@ -206,8 +202,7 @@ and (job='办事员' or job='salesman');
 * EXISTS 跳出
 ```
 SELECT * from dept where deptno in (
-SELECT deptno from emp);
-
+    SELECT deptno from emp);
 SELECT deptno , dname ,loc FROM dept d WHERE EXISTS 
 (SELECT * from emp e where e.deptno = d.deptno)
 #exits关键字后面的查询,用到了主查询的字段数据,
@@ -233,10 +228,8 @@ select * from emp order by sal desc LIMIT 6,3;
 ```
 SELECT max(sal),min(sal),deptno FROM emp GROUP BY deptno
 #聚合函数，统计结果用，这个结果是最大值和最小值
-
 select avg(sal),sum(sal),deptno from emp group by deptno;
 #聚合函数，统计结果用，这个结果是统计平均值和总数
-
 SELECT max(sal),min(sal),deptno,job from emp group by deptno,job;
 #select中的非聚合函数字段必须出现在group by中，否则毫无意义
 ```
@@ -245,38 +238,32 @@ SELECT max(sal),min(sal),deptno,job from emp group by deptno,job;
 SELECT AVG(sal),deptno from emp GROUP BY deptno HAVING AVG(sal)>2000;
 SELECT AVG(sal),deptno from emp GROUP BY deptno; # HAVING AVG(sal)>2000
 #结果筛选
-
 SELECT min(sal),deptno from emp group by deptno
 having min(sal)>
 (SELECT min(sal) from 
 emp WHERE deptno =30);
 #查看部门最低薪资
 #高于30号部门最低薪资的部门
-
 ```
 
 ## 多表查询
 ```
 select * from emp;
 select * from dept;
-
 SELECT * FROM emp a ,dept b
 where a.deptno = b.deptno;
 #简单多表查询,如果有null会漏
 #必须添加一个连接用的,否则直接相乘
-
 SELECT * from emp e,dept d
 where e.ename ='克拉克' 
 and e.deptno = d.deptno;
 #多表查询，查到结果的时候顺便显示一下部门值
-
 SELECT e.empid ,e.ename ,d.* 
 from emp e,dept d
 where e.ename ='克拉克' 
 and e.deptno = d.deptno；
 #多表查询，可以结合单独列举使用，可以结合重定向命名使用
 #select+重定向后的东西+from+重定向+where+多条件查询
-
 SELECT * from emp e,dept d #WHERE e.ename =d .dname
 #关联的时候需要指定关联条件，否则会产生笛卡尔集
 #这是一个错误示例
