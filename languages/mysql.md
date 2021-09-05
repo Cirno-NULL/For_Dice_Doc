@@ -123,13 +123,10 @@ select count(*)from emp
 ```text
 SELECT ifnull(comm,0) FROM emp;
 #替换null为第二个跟随的值
-
 SELECT ifnull(comm,0) FROM emp;
 #替换null为第二个跟随的值
-
 SELECT AVG(ifnull(comm,0)),sum(comm) from emp;
 #基于替换的查询，防止漏
-
 SELECT sal,comm,sal+ifnull(comm,0) from emp;
 #因为替换成0所以元素不会漏了
 ```
