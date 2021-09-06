@@ -113,20 +113,6 @@ adb shell monkey
 -v -v -v            log级别,一个-v一个级别
 1000                次数
 使用时写成一行
-
-
-触摸事件百分比          ，参数--pct-touch
-滑动事件百分比          ，参数--pct-motion
-缩放事件百分比          ，参数--pct-pinchzoom
-轨迹球事件百分比        ，参数--pct-trackball
-屏幕旋转事件百分比      ，参数--pct-rotation
-基本导航事件百分比      ，参数--pct-nav
-主要导航事件百分比      ，参数--pct-majornav        如键盘的中间键 回退键 菜单键
-系统事件百分比          ，参数--pct-syskeys        如Home键 返回键 音量调节键
-Activity启动事件百分比  ，参数--pct-appswitch
-键盘事件百分比          ，参数--pct-flip            如点击输入框 键盘弹起 键盘回收
-其他事件百分比          ，参数--pct-anyevent
-
 ```
 ### 事件代码
 | 事件代码            | 事件名称            |
