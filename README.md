@@ -7,16 +7,16 @@
 可能很久都不会更新
 
 {% hint style="info" %}
- 纸上得来终觉浅，绝知此事要躬行。
+纸上得来终觉浅，绝知此事要躬行。
 {% endhint %}
 
 ## 目录
+
 * [数据结构与算法](data-structure/)
 * [硬件](hardware/)
 * [安卓](android/)
 * [PC](pc/)
 * [语言](languages/)
-
 
 ## 域名
 

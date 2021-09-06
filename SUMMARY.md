@@ -8,7 +8,7 @@
 * [硬件](hardware/README.md)
   * [SD卡](hardware/sdcard.md)
 * [安卓](android/README.md)
-  * [Untitled](android/untitled.md)
+  * [模拟器](android/vitural-android.md)
   * [Linux Deploy](android/linux-deploy.md)
   * [刷机](android/flash.md)
   * [adb](android/adb.md)
