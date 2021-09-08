@@ -13,6 +13,8 @@
   * [刷机](android/flash.md)
   * [adb](android/adb.md)
 * [pc](pc/README.md)
+  * [System](pc/system/README.md)
+    * [CentOs](pc/system/centos.md)
   * [磁盘和引导](pc/disk-and-boot.md)
   * [Windows](pc/windows/README.md)
     * [Win11桌面黑屏](pc/windows/win11-desktop-black.md)
