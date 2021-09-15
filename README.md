@@ -12,11 +12,10 @@
 
 ## 目录
 
-* [数据结构与算法](data-structure/)
-* [硬件](hardware/)
-* [安卓](android/)
-* [PC](pc/)
-* [语言](languages/)
+{% hint style="info" %}
+请寻找侧边栏目录   
+懒得维护了
+{% endhint %}
 
 ## 域名
 
