@@ -21,6 +21,7 @@
     * [Ubuntu](pc/system/ubuntu/README.md)
       * [Adguard Home](pc/system/ubuntu/adguard-home.md)
     * [Windows](pc/system/windows/README.md)
+      * [输入法](pc/system/windows/ime.md)
       * [Win11桌面黑屏](pc/system/windows/win11-desktop-black.md)
       * [剪贴板](pc/system/windows/clipboard.md)
       * [开机自启](pc/system/windows/start.md)
