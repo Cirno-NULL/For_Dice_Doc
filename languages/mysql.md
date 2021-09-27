@@ -453,7 +453,12 @@ select * from emp10
 ```
 
 ## 索引
-
+1. 如果不在索引列中进行任何操作(计算、函数、(自动或手动)类型转换)，索引就会失效，转向全表扫描。
+2. 存储引擎不能使用索引范围的右列。
+3. 尽量使用覆盖索引(仅访问索引查询(索引列和查询列一致)，减少select*
+4. 使用mysql不等于(！=或>)不能使用索引会导致全表扫描。
+5. isnull，isnotnull不能使用索引。
+6. like以通配符开头('%abc…')mysql索引失效将成为全表扫描操作。
 ```text
 CREATE INDEX idx_emp_ename on emp(ename);
 drop index idx_emp_ename on emp;

@@ -16,3 +16,15 @@ systemctl stop firewalld
 systemctl restart firewalld
 ```
 
+## 查看
+### 查看进程
+```
+ps -ef|grep python3
+```
+```
+netstat -ntlp|grep mysql
+```
+
+
+## 端口
+* 上面的需要再次整理
