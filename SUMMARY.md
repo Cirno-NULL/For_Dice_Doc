@@ -30,7 +30,7 @@
   * [C](languages/c/README.md)
     * [test](languages/c/test.md)
   * [Lua](languages/lua/README.md)
-    * [test](languages/lua/test.md)
+    * [基础](languages/lua/basic.md)
   * [mysql](languages/mysql.md)
   * [Python](languages/python/README.md)
     * [Selenium](languages/python/selenium.md)

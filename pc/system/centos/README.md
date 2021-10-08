@@ -17,14 +17,18 @@ systemctl restart firewalld
 ```
 
 ## 查看
+
 ### 查看进程
-```
+
+```text
 ps -ef|grep python3
 ```
-```
+
+```text
 netstat -ntlp|grep mysql
 ```
 
-
 ## 端口
+
 * 上面的需要再次整理
+
