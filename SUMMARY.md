@@ -27,6 +27,8 @@
       * [开机自启](pc/system/windows/start.md)
   * [磁盘和引导](pc/disk-and-boot.md)
 * [计算机语言](languages/README.md)
+  * [html](languages/html/README.md)
+    * [console](languages/html/console.md)
   * [C](languages/c/README.md)
     * [test](languages/c/test.md)
   * [Lua](languages/lua/README.md)
@@ -34,4 +36,3 @@
   * [mysql](languages/mysql.md)
   * [Python](languages/python/README.md)
     * [Selenium](languages/python/selenium.md)
-
