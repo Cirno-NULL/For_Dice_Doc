@@ -1,8 +1,6 @@
-# 3.常见公式
+# 基础公式
 
-## 基础公式
-
-### 基础平方公式
+## 基础平方公式
 
 1.  表格
 
@@ -19,7 +17,7 @@
     \def\arraystretch{} \begin{array}{r:l:c:c} 题解\\\hdashline (a-b)^2 & = a^2 - 2ab + b^2\\ ·&= 3-2\\ ·&= 1\\ \\\hdashline \because\sqrt[2]{1^{2}}\\ \therefore ans &= \pm1 \end{array}
     $$
 
-### 整式运算
+## 整式运算
 
 1.  表格
 
