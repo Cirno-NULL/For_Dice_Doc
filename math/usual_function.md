@@ -17,8 +17,10 @@
    
 2. 例题：
    $$
-   x^2 + y^2 = 3  ， xy = 1 ， 求x-y \\\hdashline
+   x^2 + y^2 = 3  ， xy = 1 ， 求x-y
+   $$
    
+   $$
    \def\arraystretch{}
    \begin{array}{r:l:c:c}
    题解\\\hdashline
