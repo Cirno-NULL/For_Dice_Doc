@@ -38,3 +38,4 @@
     * [Selenium](languages/python/selenium.md)
 * [基础数学](math/README.md)
   * [2.实数及运算](math/real\_number\_and\_Operation.md)
+  * [常见公式](math/usual\_function.md)
