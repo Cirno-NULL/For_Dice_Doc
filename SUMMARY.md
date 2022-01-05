@@ -38,4 +38,6 @@
     * [Selenium](languages/python/selenium.md)
 * [基础数学](math/README.md)
   * [2.实数及运算](math/real\_number\_and\_Operation.md)
-  * [3.常见公式](math/usual\_function.md)
+  * [3.代数式](math/usual\_function/README.md)
+    * [整式示例题](math/usual\_function/zheng-shi-shi-li-ti.md)
+    * [分式示例题](math/usual\_function/fen-shi-shi-li-ti.md)
