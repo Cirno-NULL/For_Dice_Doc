@@ -77,5 +77,5 @@ $$
 ## 基于基础定义获得的衍生
 
 $$
-\def\arraystretch{} \begin{array}{r:l:l:c} 类型 & 公式 & 示例 \\\hdashline 同底数幂的乘法： & a^m·a^n = a^{m+n} & 2^2*2^3 = 2^{2+3} = 2^5 \\\hdashline 同底数幂的除法： & a^m/a^n = a^{m-n} & 2^5/2^3 = 2^{5-3} = 2^2\\\hdashline 积的乘方： & (ab)^n = a^n*b^n &(2*3)^2 = 2^2*3^2\\\hdashline 幂的乘方： & (a^m)^n = a^{mn} &(2^2)^3=2^{2*3} \\ &&(x^2)^{-3} = x^{-6}\\\hdashline \end{array}
+\def\array stretch{} \begin{array}{r:l:l:c} 类型 & 公式 & 示例 \\\hdashline 同底数幂的乘法： & a^m·a^n = a^{m+n} & 2^2*2^3 = 2^{2+3} = 2^5 \\\hdashline 同底数幂的除法： & a^m/a^n = a^{m-n} & 2^5/2^3 = 2^{5-3} = 2^2\\\hdashline 积的乘方： & (ab)^n = a^n*b^n &(2*3)^2 = 2^2*3^2\\\hdashline 幂的乘方： & (a^m)^n = a^{mn} &(2^2)^3=2^{2*3} \\ &&(x^2)^{-3} = x^{-6}\\\hdashline \end{array}
 $$

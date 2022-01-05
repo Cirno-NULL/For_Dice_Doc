@@ -1,7 +1,18 @@
-# 整式运算
+# 代数运算
+$$
+代数式\begin{cases}
+有理式&\begin{cases}
+        整式&\begin{cases}
+            单项式&\\
+            多项式 
+            \end{cases}\\
+        分式 
+        \end{cases}\\
+   无理式 
+\end{cases}
+$$
 
 ## 基础平方公式
-
 1.  表格
 
     $$
@@ -26,7 +37,7 @@
     $$
     单项式的次数和是各个位置的次数量相加
 
-## 因式分解
+### 因式分解
 
 $$
 \def\array stretch{} 
