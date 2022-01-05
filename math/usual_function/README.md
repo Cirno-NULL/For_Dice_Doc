@@ -2,11 +2,11 @@
 $$
 代数式\begin{cases}
 有理式&\begin{cases}
-        整式&\begin{cases}
-            单项式&\\
-            多项式 
+        \large 整式&\begin{cases}
+            \Large 单项式&\\
+            \Large 多项式 
             \end{cases}\\
-        分式 
+        \large 分式 
         \end{cases}\\
    无理式 
 \end{cases}
@@ -16,7 +16,7 @@ $$
 1.  表格
 
     $$
-     \begin{array}{l:l:c:c} 类型 & 公式 \\\hdashline 平方差公式： & (a+b)(a-b) = a^2-b^2 \\ \hdashline 平方差公式： & (a+b)^2 = a^2 +2ab + b^2 \\ & (a-b)^2 = a^2-2ab+b^2 \\\end{array}
+     \begin{array}{l:l:c:c} 类型 & 公式 \\\hdashline 平方差公式： &\large (a+b)(a-b) = a^2-b^2 \\ \hdashline 平方差公式： &\large (a+b)^2 = a^2 +2ab + b^2 \\ &\large (a-b)^2 = a^2-2ab+b^2 \\\end{array}
     $$
 2.  例题：
 
@@ -33,7 +33,7 @@ $$
 1.  表格
 
     $$
-     \begin{array}{l:l:l:l} 类型 & 公式 & 示例 \\\hdashline 合并同类项： & ax^2y+bx^y=(a+b)x^2y & 3x^2y+7x^2y \\ &&=(3+7)x^2y\\ &&=10x^2y\\\hdashline 单项式乘单项式： & ax^2y^3·bxy^2=abx^3y^5 & 3x^2y^3·5xy^2 \\ &&=15x^3y^5\\\hdashline 单项式乘多项式：& p(a+b+c)=pa+pb+pc & \\\hdashline 多项式乘多项式： & (a+b)(p+q)=ap+aq+bp+bq & \\\hdashline 单项式除以单项式： & 把\left[\large系数\right]与\left[\large同底数幂\right]分别相除 & 9a^3b^2\div3a^2b^2 \\ &作为商的因式，对于只在被除式里&=3a\\ &含有的字母,则连同它的指数作为&27a^{10}b^5\div9a^3b^2\\ &商的一个因式 & =3a^7b3 \\\hdashline 多项式除以单项式： &(am+bm)\div{m}\\ &=am\div{m}+bm\div{m}\\ &=a+b \\\hdashline \end{array}
+     \begin{array}{l:l:l:l} 类型 & 公式 & 示例 \\\hdashline 合并同类项： &\large ax^2y+bx^y=(a+b)x^2y & 3x^2y+7x^2y \\ &&=(3+7)x^2y\\ &&=10x^2y\\\hdashline 单项式乘单项式： &\large ax^2y^3·bxy^2=abx^3y^5 & 3x^2y^3·5xy^2 \\ &&=15x^3y^5\\\hdashline 单项式乘多项式：&\large p(a+b+c)=pa+pb+pc & \\\hdashline 多项式乘多项式： &\large (a+b)(p+q)=ap+aq+bp+bq & \\\hdashline 单项式除以单项式： & 把\left[\large系数\right]与\left[\large同底数幂\right]分别相除 & 9a^3b^2\div3a^2b^2 \\ &作为商的因式，对于只在被除式里&=3a\\ &含有的字母,则连同它的指数作为&27a^{10}b^5\div9a^3b^2\\ &商的一个因式 & =3a^7b3 \\\hdashline 多项式除以单项式： &\large(am+bm)\div{m}\\ &=am\div{m}+bm\div{m}\\ &=a+b \\\hdashline \end{array}
     $$
     单项式的次数和是各个位置的次数量相加
 
@@ -60,7 +60,7 @@ $$
 ### 分式的基本性质
 $$
 \begin{array}{r:l:l:l}
-分式的基本性质&\frac{A}{B}=\frac{A*C}{B*C}\hspace{15pt}
+分式的基本性质&\Large \frac{A}{B}=\frac{A*C}{B*C}\hspace{15pt}
 \frac{A}{B}=\frac{A\div{C}}{B\div{C}}\\\hline
 约分&将分式中分子与分母的【公因式】约去\\&使分式化为最简分式或整式\\\hline通分&化异分母的分式为同分母的分式
 \end{array}
@@ -68,9 +68,9 @@ $$
 ### 分式的运算
 $$
 \begin{array}{l:l:l:l}
-分式的加减&\frac{b}{a}\pm\frac{c}{a}=\frac{b\pm{c}}{a}&\frac{b}{a}\pm\frac{d}{c}=\frac{bc\pm{ad}}{ac}\\\hdashline
-分式的乘除&\frac{a}{b}*\frac{d}{c}=\frac{ad}{bc}&\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}\\\hdashline
-分式的乘方&(\frac{a}{b})^n=\frac{a^n}{b^n}(n为整数)
+分式的加减&\huge \frac{b}{a}\pm\frac{c}{a}=\frac{b\pm{c}}{a}&\huge \frac{b}{a}\pm\frac{d}{c}=\frac{bc\pm{ad}}{ac}\\\hdashline
+分式的乘除&\huge \frac{a}{b}*\frac{d}{c}=\frac{ad}{bc}&\huge \frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}\\\hdashline
+分式的乘方&\huge (\frac{a}{b})^n=\frac{a^n}{b^n}(n为整数)
 \end{array}
 $$
 #### 分式的混合运算
