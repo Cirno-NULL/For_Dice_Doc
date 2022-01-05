@@ -16,7 +16,7 @@ $$
 1.  表格
 
     $$
-    \def\array stretch{} \begin{array}{l:l:c:c} 类型 & 公式 \\\hdashline 平方差公式： & (a+b)(a-b) = a^2-b^2 \\ \hdashline 平方差公式： & (a+b)^2 = a^2 +2ab + b^2 \\ & (a-b)^2 = a^2-2ab+b^2 \\\end{array}
+     \begin{array}{l:l:c:c} 类型 & 公式 \\\hdashline 平方差公式： & (a+b)(a-b) = a^2-b^2 \\ \hdashline 平方差公式： & (a+b)^2 = a^2 +2ab + b^2 \\ & (a-b)^2 = a^2-2ab+b^2 \\\end{array}
     $$
 2.  例题：
 
@@ -25,7 +25,7 @@ $$
     $$
 
     $$
-    \def\array stretch{} \begin{array}{r:l:c:c} 题解\\\hdashline (a-b)^2 & = a^2 - 2ab + b^2\\ ·&= 3-2\\ ·&= 1\\ \\\hdashline \because\sqrt[2]{1^{2}}\\ \therefore ans &= \pm1 \end{array}
+     \begin{array}{r:l:c:c} 题解\\\hdashline (a-b)^2 & = a^2 - 2ab + b^2\\ ·&= 3-2\\ ·&= 1\\ \\\hdashline \because\sqrt[2]{1^{2}}\\ \therefore ans &= \pm1 \end{array}
     $$
 
 ## 整式运算
@@ -33,14 +33,13 @@ $$
 1.  表格
 
     $$
-    \def\array stretch{} \begin{array}{l:l:l:l} 类型 & 公式 & 示例 \\\hdashline 合并同类项： & ax^2y+bx^y=(a+b)x^2y & 3x^2y+7x^2y \\ &&=(3+7)x^2y\\ &&=10x^2y\\\hdashline 单项式乘单项式： & ax^2y^3·bxy^2=abx^3y^5 & 3x^2y^3·5xy^2 \\ &&=15x^3y^5\\\hdashline 单项式乘多项式：& p(a+b+c)=pa+pb+pc & \\\hdashline 多项式乘多项式： & (a+b)(p+q)=ap+aq+bp+bq & \\\hdashline 单项式除以单项式： & 把\left[\large系数\right]与\left[\large同底数幂\right]分别相除 & 9a^3b^2/3a^2b^2 \\ &作为商的因式，对于只在被除式里&=3a\\ &含有的字母,则连同它的指数作为&27a^{10}b^5/9a^3b^2\\ &商的一个因式 & =3a^7b3 \\\hdashline 多项式除以单项式： &(am+bm)/m\\ &=am/m+bm/m\\ &=a+b \\\hdashline \end{array}
+     \begin{array}{l:l:l:l} 类型 & 公式 & 示例 \\\hdashline 合并同类项： & ax^2y+bx^y=(a+b)x^2y & 3x^2y+7x^2y \\ &&=(3+7)x^2y\\ &&=10x^2y\\\hdashline 单项式乘单项式： & ax^2y^3·bxy^2=abx^3y^5 & 3x^2y^3·5xy^2 \\ &&=15x^3y^5\\\hdashline 单项式乘多项式：& p(a+b+c)=pa+pb+pc & \\\hdashline 多项式乘多项式： & (a+b)(p+q)=ap+aq+bp+bq & \\\hdashline 单项式除以单项式： & 把\left[\large系数\right]与\left[\large同底数幂\right]分别相除 & 9a^3b^2\div3a^2b^2 \\ &作为商的因式，对于只在被除式里&=3a\\ &含有的字母,则连同它的指数作为&27a^{10}b^5\div9a^3b^2\\ &商的一个因式 & =3a^7b3 \\\hdashline 多项式除以单项式： &(am+bm)\div{m}\\ &=am\div{m}+bm\div{m}\\ &=a+b \\\hdashline \end{array}
     $$
     单项式的次数和是各个位置的次数量相加
 
 ### 因式分解
 
 $$
-\def\array stretch{} 
 \begin{array}{l:l:c:c} 
 类型 & 公式 \\\hdashline 
 提公因式法： & ma+mb+mc = m(a+b+c) \\ \hdashline 
@@ -54,94 +53,32 @@ $$
 然后再利用**公式法**分解因式，      
 因式分解必须分解到每一个多项式不能再分解为止    
 
-例题：
+## 分式运算
+1. 如果A，B表示两个**整式**，并且B中含有**字母**，那么式子A/B叫做分式。
+2. 当**B≠0**时，分式**A/B**才有意义。
+3. 当**A=0**且**B≠0**时，分式**A/B**的值为**0**
+### 分式的基本性质
 $$
-\def\array stretch{} 
-\begin{array}{r:l:l:c} 
- 例1：&ma^2+2mab+mb^2&\\
-= & m(a^2+2ab+b^2) \\ 
-= & m(a+b)^2 \\\hdashline
-例2：&(1+a)(1-a)+a(a-2)& a=\frac{1}{2} \\
-=&1^2-a^2+a^2-2a\\
-=&1-2a\\
-&代入a\frac{1}{2}\\
-原式=&1-2*\frac{1}{2}=0\\\hdashline
-例3：&(x+y)*(x-y)-(4x^3y-8xy^3)/2xy&x=-1,y=\frac{\sqrt{3}}{3}\\
-=&x^2-y^2-4xy(x^2-2y^2)/2xy&这里化简的时候\\
-=&x^2-y^2-2(x^2-2y^2)&-2y^2容易漏掉2\\
-=&x^2-y^2-2x^2+4y^2\\
-=&-x^2+3y^2\\
-&代入x=-1，y=\frac{\sqrt{3}}{3}\\
-原式=&-(-1)^2+3*(\frac{\sqrt{3}}{3})^2\\
-=&-1+3(\frac{\sqrt{9}}{9})\\
-=&-1+1\\
-=&0\\\hdashline
-例4：&(a+b)(a-b)+b(a+2b)-b^2&a=1,b=-2\\
-=&a^2-b^2+ab+2b^2-b^2\\
-=&a^2+ab\\
-&代入a=1，b=-2\\
-原式=&1-2\\
-=&-1\\\hdashline
-例5：&若a-b=1，求a^2-b^2-2b\\
-=&(a+b)(a-b)-2b\\
-=&a+b-2b\\
-=&a-b\\
-=&1\\\hdashline
-例6：&(-x^2+5x+4)+(5x-4+2x^2)&x=-2\\
-=&(-x^2+5x+4)+(2x^2+5x-4)\\
-=&x^2+10x\\
-=&4-20\\
-=&-16\\\hline&
-多项式加减\\\hline
-例1：&多项式A=(x+2)^2+(1-x)(2+x)-3\\
-(1)&化简多项式A；\\
-(2)&若(x+1)^2=6，求A的值。\\\hline
-(1.1)\\
-A=&x^2+4x+4+2+x-2x-x^2-3\\
-=&3x+6-3&过于暴力\\
-=&3x+3\\\hdashline
-(1.2)\\
-A=&(x+2)(x+2)+(1-x)(x+2)-3\\
-=&(x+2)(x+2+1-x)-3\\
-=&3*(x+2)-3&相对优雅\\
-=&3x+6-3\\
-=&3x+3\\\hdashline
-(2)&由(1)有A=3(x+1)\\
-\because&(x+1)^2=6\\
-\therefore&(x+1)=\plusmn\sqrt{6}\\
-&A=\pm3\sqrt6\\\hline
-例2：&(x-1)(2x-1)-(x+1)^2+1&x^2-5x=3\\
-=&2x^2-x-2x+1-(x^2+2x+1)+1\\
-=&2x^2-3x+1-x^2-2x-1+1\\
-=&x^2-5x+1\\
-&代入x^2-5x=3\\
-原式=&3+1\\
-=4\\\hline
-&多项式乘除\\\hline
-例1：&(1-3a)^2-2(1-3a)&a=1\\\hdashline
-=&(1-3a)(1-3a)-(2)(1-3a)\\
-=&(1-3a)(1-3a-2)\\
-=&(-2)(-4)\\
-=&8\\\hline
-例2：&a(a-2b)+2(a+b)(a-b)+(a+b)^2&a=-\frac{1}{2}，b=1\\\hdashline
-=&a(a-2b)+2(a+b)(a-b)+(a+b)(a+b)\\
-=&a(a-2b)+[2(a-b)+(a+b)](a+b)&感觉应该\\
-=&a(a-2b)+[2a-2b+a+b](a+b)&一开始就展开\\
-=&a(a-2b)+(3a-b)(a+b)&还快一点\\
-=&a^2-2ab+3a^2+3ab-ab-b^2\\
-=&4a^2-b^2\\
-&由a=-\frac{1}{2}，b=1\\
-原式=&4*(-\frac{1}{2})^2-(1)^2\\
-= &1-1\\
-=&0\\\hline
-例3&8(x^2-2y^2)-x(7x+y)+xy\\\hdashline
-=&8x^2-16y^2-7x^2-xy+xy\\
-=&x^2-16y^2&不要到此为止\\
-=&(x+4y)(x-4y)&还能继续到这\\\hline
+\begin{array}{r:l:l:l}
+分式的基本性质&\frac{A}{B}=\frac{A*C}{B*C}\hspace{15pt}
+\frac{A}{B}=\frac{A\div{C}}{B\div{C}}\\\hline
+约分&将分式中分子与分母的【公因式】约去\\&使分式化为最简分式或整式\\\hline通分&化异分母的分式为同分母的分式
 \end{array}
 $$
-
-
-
+### 分式的运算
+$$
+\begin{array}{l:l:l:l}
+分式的加减&\frac{b}{a}\pm\frac{c}{a}=\frac{b\pm{c}}{a}&\frac{b}{a}\pm\frac{d}{c}=\frac{bc\pm{ad}}{ac}\\\hdashline
+分式的乘除&\frac{a}{b}*\frac{d}{c}=\frac{ad}{bc}&\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}\\\hdashline
+分式的乘方&(\frac{a}{b})^n=\frac{a^n}{b^n}(n为整数)
+\end{array}
+$$
+#### 分式的混合运算
+> 在分式的混合运算中，
+> 应先算**乘方**，再算**乘除**
+> 进行约分化简后，
+> 最后进行**加减**运算，
+> 遇到有括号的，先算**括号内**的，
+> 分式运算的结果一定要是**最简**分式或**整式**
 
 
