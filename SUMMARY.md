@@ -41,4 +41,5 @@
   * [3.代数式](math/usual\_function/README.md)
     * [整式示例题](math/usual\_function/zheng-shi-shi-li-ti.md)
     * [分式示例题](math/usual\_function/fen-shi-shi-li-ti.md)
-  * [开方&根式](math/kai-fang-gen-shi.md)
+  * [4.开方&根式](math/kai-fang-gen-shi/README.md)
+    * [Page 1](math/kai-fang-gen-shi/page-1.md)
