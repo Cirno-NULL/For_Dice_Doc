@@ -43,3 +43,5 @@
     * [分式示例题](math/3\_usual\_function/Samples\_fen-shi.md)
   * [4.开方&根式](math/4\_sqrt/README.md)
     * [例题](math/4\_sqrt/Samples.md)
+  * [5.一&二元一次方程(组)](math/5.-yi-er-yuan-yi-ci-fang-cheng-zu/README.md)
+    * [例题](math/5.-yi-er-yuan-yi-ci-fang-cheng-zu/Samples.md)
