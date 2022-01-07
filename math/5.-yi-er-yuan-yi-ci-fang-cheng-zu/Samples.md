@@ -1,2 +1,84 @@
 # 例题
 
+## 理解性例题
+$$
+\begin{array}{r:l:l}
+例题&\large\begin{cases}
+x+2y=6\\
+3x-y=4
+\end{cases}\\\hdashline
+1&\large代入消元法\\\hline
+解:&x=6-2y\\\hdashline
+代入&3x-y=4\\
+&3(6-2y)-y=4\\
+&18-7y=4\\
+&14=7y\\
+&y=2\\\hdashline
+可得&x=6-2y\\
+&x=2\\\hdashline
+答：&\begin{cases}
+x=2 \\
+y=2
+\end{cases}
+\\\hline
+2&\large加减消元法\\\hdashline
+解&3*(1)有\\
+&\begin{cases}
+3x+6y=18\\
+3x-y=4
+\end{cases}\\\hdashline
+相减&3x-y-3x-6y=4-18\\
+&-7y=-14\\
+&y=2\\\hdashline
+可得&x+4=6\\
+&x=2\\\hdashline
+答：&\begin{cases}
+x=2 \\
+y=2
+\end{cases}
+\end{array}
+$$
+
+## 例题
+### 组1
+$$\begin{array}{r:l:l:l}
+(1)&40名同学,甲乙票共计370元\\
+&甲票10/每张,乙票8/每张\\
+&列方程组求值\\\hdashline
+解：&\begin{cases}
+10x+8y=370\\
+x+y=40
+\end{cases}\\\hdashline
+由&(1)-8*(2)\\
+&\begin{cases}
+10x+8y=370\\
+8x+8y=320
+\end{cases}
+\\\hdashline
+&10x+8y-8x-8y=370-320\\
+&2x=50\\
+&x=25\\
+&\begin{cases}
+x=25\\y=15
+\end{cases}\\
+答：&25甲；15乙\\\hline
+(2)&20支笔+2盒笔芯=56\\
+&2支笔+3盒笔芯=28\\
+&求笔和笔芯价格\\\hdashline
+解：&\begin{cases}
+20x+2y=56\\2x+3y=28
+\end{cases}\\\hdashline
+由&2y=56-20x\\
+&y=28-10x\\\hdashline
+&2x+3(28-10x)=28\\
+&2x+84-30x=28\\
+&-28x+84=28\\
+&28x=56\\
+&x=2\\
+&\begin{cases}
+x=2\\
+y=8
+\end{cases}\\\hdashline
+答：&笔2/支；笔芯8/盒
+\end{array}\\
+$$
