@@ -101,8 +101,8 @@ x=7k\\y=-2k
 x+y=1\\
 y+z=6\\
 z+x=3\\
-\end{cases}\\
-答：&y=1-x\\
+\end{cases}\\\hdashline
+解：&y=1-x\\
 &z=6-(1-x)\\
 &[6-(1-x)]+x=3\\
 &2x+5=3\\
