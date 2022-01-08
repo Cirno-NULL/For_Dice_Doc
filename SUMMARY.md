@@ -45,3 +45,5 @@
     * [例题](math/4\_sqrt/Samples.md)
   * [5.一&二元一次方程(组)](math/5.-yi-er-yuan-yi-ci-fang-cheng-zu/README.md)
     * [例题](math/5.-yi-er-yuan-yi-ci-fang-cheng-zu/Samples.md)
+  * [6.一元一次不等式(组)](math/6.-yi-yuan-yi-ci-bu-deng-shi-zu/README.md)
+    * [例题](math/6.-yi-yuan-yi-ci-bu-deng-shi-zu/Samples.md)
