@@ -53,6 +53,24 @@ x\lt1
 &x=\begin{cases}
 0\\-1\\-2
 \end{cases}\\\hdashline
-&-3\le{a}\lt-2&a=-3;x\gt-3
+&-3\le{a}\lt-2&a=-3;x\gt-3\\\hline
+(3)&\Large\begin{cases}
+\frac{x}{2}+\frac{x+1}{3}\gt0\\
+x+\frac{5a+4}{3}\gt\frac{4}{3}(x+1)+a
+\end{cases}\\&恰好只有两个整数解\\\hdashline
+3.1&5x\gt-2\\
+&x>\Large -\frac{2}{5}\\\hdashline
+3.2&3x+5a+4\gt4x+4+3a\\
+&2a\gt{x}\\
+&x\le2a\\
+&\begin{cases}
+x\gt-\frac{2}{5}\\x\lt2a
+\end{cases}\\\hdashline
+&x\begin{cases}
+0\\1
+\end{cases}\\
+&-\frac{2}{5}\lt{x}\lt2a&两个整数解\\
+\therefore&1\lt2a\le2\\\hdashline
+答：&\Large\frac{1}{2}\lt{a}\le1
 \end{array}
 $$
