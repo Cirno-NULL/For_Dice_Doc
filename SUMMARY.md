@@ -47,3 +47,5 @@
     * [例题](math/5.-yi-er-yuan-yi-ci-fang-cheng-zu/Samples.md)
   * [6.一元一次不等式(组)](math/6.-yi-yuan-yi-ci-bu-deng-shi-zu/README.md)
     * [例题](math/6.-yi-yuan-yi-ci-bu-deng-shi-zu/Samples.md)
+  * [7.一元二次方程](math/7.-yi-yuan-er-ci-fang-cheng/README.md)
+    * [例题](math/7.-yi-yuan-er-ci-fang-cheng/Samples.md)
