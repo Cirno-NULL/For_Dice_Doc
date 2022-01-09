@@ -38,14 +38,26 @@ x=&\Large\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\
 &100x=2x^2+1200\\
 &2x^2-100x+1200=0\\
 &通过求根公式得出x\\
-&x=\frac{100\pm\sqrt{(-100)^2-4(2\times1200)}}{2\times2}\\
-&=\frac{100\pm\sqrt{10000-9600}}{4}\\
-&=\frac{100\pm20}{4}\\
+&x=\Large\frac{100\pm\sqrt{(-100)^2-4(2\times1200)}}{2\times2}\\
+&=\Large\frac{100\pm\sqrt{10000-9600}}{4}\\
+&=\Large\frac{100\pm20}{4}\\
 &=25\pm5\\
 &x=\begin{cases}
 20\\30
 \end{cases}\\
 \because&(80-50)/2+10=25\\
-\therefore&x=20
+\therefore&x=20\\\hline
+(4)&\large x_1，x_2\normalsize是方程\\
+&\large x^2+x-1=0\normalsize的两个根\\
+&\large x_1^2+x_2^2=？\\\hdashline
+&\large x_1^2+x_2^2={\color{red}{(x_1+x_2)^2-2x_1x_2}}\\
+&\large x_1+x_2=\Large-\frac{b}{a}=\normalsize-1&韦达定理\\
+&\large x_1\times x_2=\Large\frac{c}{a}=\normalsize-1&韦达定理\\
+=&(-1)^2-(-2)=1+2=3\\\hline
+(5)&x=1是x^2+mx+n=0的一个根\\
+&m^2+2mn+n^2=？\\
+&1^2+m+n=0\\
+&m+n=-1\\
+&m^2+2mn+n^2=(m+n)^2=1
 \end{array}
 $$
