@@ -22,3 +22,18 @@ $$
 &x+50=200\\\hline
 \end{array}
 $$
+
+## 例题
+$$
+\begin{array}{r l l l}
+(1)&\Large{\frac{x}{x-1}+\frac{k}{x-1}-\frac{x}{x+1}}\normalsize=0\\
+&\Large{\frac{x+k}{x-1}-\frac{x}{x+1}}\normalsize=0\\
+&(x+k)(x+1)-x(x-1)=0\\
+&x^2+x+kx+k-x^2+x=0\\
+&kx+k+2x=0\\
+&(k+2)x=-k\\
+&k\neq-2：x=\Large\frac{-k}{k+2}\\
+&k=-2：none\\
+&\Large{\frac{-k}{k+2}}=\normalsize\pm1
+\end{array}
+$$
