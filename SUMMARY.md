@@ -49,3 +49,5 @@
     * [例题](math/6.-yi-yuan-yi-ci-bu-deng-shi-zu/Samples.md)
   * [7.一元二次方程](math/7.-yi-yuan-er-ci-fang-cheng/README.md)
     * [例题](math/7.-yi-yuan-er-ci-fang-cheng/Samples.md)
+  * [8.分式方程](math/8.-fen-shi-fang-cheng/README.md)
+    * [例题](math/8.-fen-shi-fang-cheng/Samples.md)
