@@ -1,2 +1,24 @@
 # 例题
 
+## 理解性例题
+$$
+\begin{array}{r l l l}\\
+(1)&\Large\frac{2}{x-2}+\frac{x+m}{2-x}=\normalsize2\\\hdashline
+&思路：先化简成x=。。。\\
+&然后求特解\\
+解：&\Large\frac{2}{x-2}-\frac{(x+m)}{x-2}=\normalsize2&相反数（but...why）\\
+&2-(x+m)=2(x-2)&同乘\\
+&2-x-m=2x-4\\
+&-x-2x=-4-2+m\\
+&-3x=-6+m\\
+&x=2-\Large{\frac{m}{3}}\\
+&令2-\Large\frac{m}{3}=\normalsize2\\
+&m=0\\\hline
+(2)&每天+50后生产\\&600台机器的时间\\&等于原来生产\\&450台机器的时间，\\&现在每天多少台\\\hdashline
+&\Large\frac{600}{x+50}=\frac{450}{x}\\
+&600x=450(x+50)\\
+&150x=450*50\\
+&x=150\\
+&x+50=200\\\hline
+\end{array}
+$$
