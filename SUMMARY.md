@@ -51,3 +51,5 @@
     * [例题](math/7.-yi-yuan-er-ci-fang-cheng/Samples.md)
   * [8.分式方程](math/8.-fen-shi-fang-cheng/README.md)
     * [例题](math/8.-fen-shi-fang-cheng/Samples.md)
+  * [9.平面直角坐标系与函数](math/9.-ping-mian-zhi-jiao-zuo-biao-xi-yu-han-shu/README.md)
+    * [例题](math/9.-ping-mian-zhi-jiao-zuo-biao-xi-yu-han-shu/Samples.md)
