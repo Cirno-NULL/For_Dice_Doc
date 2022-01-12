@@ -53,3 +53,5 @@
     * [例题](math/8.-fen-shi-fang-cheng/Samples.md)
   * [9.平面直角坐标系与函数](math/9.-ping-mian-zhi-jiao-zuo-biao-xi-yu-han-shu/README.md)
     * [例题](math/9.-ping-mian-zhi-jiao-zuo-biao-xi-yu-han-shu/Samples.md)
+  * [10.一次函数](math/10.-yi-ci-han-shu/README.md)
+    * [例题](math/10.-yi-ci-han-shu/Samples.md)
