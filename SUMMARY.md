@@ -55,3 +55,5 @@
     * [例题](math/9.-ping-mian-zhi-jiao-zuo-biao-xi-yu-han-shu/Samples.md)
   * [10.一次函数](math/10.-yi-ci-han-shu/README.md)
     * [例题](math/10.-yi-ci-han-shu/Samples.md)
+  * [11.反比例函数](math/11.-fan-bi-li-han-shu/README.md)
+    * [例题](math/11.-fan-bi-li-han-shu/Samples.md)
