@@ -7,7 +7,7 @@
     | - | - | - | --- | -|
     | | | | 形状:一条直线 | | |
     |解析式 |  | k>0 | k<0 | 经过点 | |
-    |y=kx | b=0 | <svg width="172" height="108" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="undefined" stroke-linejoin="undefined" stroke="#000" fill="none" d="M-148 57h425.011M65 197v-312.079M-76 182 216-78"/></svg> | 经过原点斜向下 | (0,0)<br>(1,k)|
+    |y=kx | b=0 | 经过原点斜向上 | 经过原点斜向下 | (0,0)<br>(1,k)|
     |y=kx+b| b>0 | 在原点上方斜向上 | 在原点上方斜向下 | (0,b) | |
     | | b<0 | 在原点下方斜向上 |在原点下方斜向下 | (-b/k,0) | |
     |性质 | y随x的增大而增大 | y随x的增大而减小 | | |
