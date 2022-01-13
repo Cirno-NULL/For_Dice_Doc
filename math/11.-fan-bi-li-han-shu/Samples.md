@@ -5,13 +5,13 @@
 当a\neq0时，\\函数y=ax+1与函数y=\frac{a}{x}\\在同一平面直角坐标系中\\的图像可能是
 \end{array}
     $$
-    
-    | 选项 | 图片 |
-    | - | - |
-    | A |![A](pics/Q1_1.svg)|
-    | B |![B](pics/Q1_2.svg)|
-    | <font style="color: red">C</font> |![C](pics/Q1_3.svg)|
-    | D |![D](pics/Q1_4.svg)|
+
+| 选项 | 图片 |
+| - | - |
+| A |![A](pics/Q1_1.svg)|
+| B |![B](pics/Q1_2.svg)|
+| <font style="color: red">C</font> |![C](pics/Q1_3.svg)|
+| D |![D](pics/Q1_4.svg)|
 
 2. 如图所示，已知一次函数与反比例函数       
     的图像交于点A(-4,-2)和B(a,4).
