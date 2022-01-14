@@ -57,3 +57,5 @@
     * [例题](math/10.-yi-ci-han-shu/Samples.md)
   * [11.反比例函数](math/11.-fan-bi-li-han-shu/README.md)
     * [例题](math/11.-fan-bi-li-han-shu/Samples.md)
+  * [12.二次函数的图像与性质](math/12.-er-ci-han-shu-de-tu-xiang-yu-xing-zhi/README.md)
+    * [例题](math/12.-er-ci-han-shu-de-tu-xiang-yu-xing-zhi/Samples.md)
