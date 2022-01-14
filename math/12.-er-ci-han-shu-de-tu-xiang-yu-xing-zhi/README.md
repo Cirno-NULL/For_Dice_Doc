@@ -35,14 +35,15 @@ $$
 \end{array}
 $$
 
-| |a>0 | a <0 |
-| - | - | - |
-|图像 | ![t1_1](pics/T1_1.svg) | ![t1_2](pics/T1_2.svg)|
+![t1_1](pics/T1_1.svg) ![t1_2](pics/T1_2.svg)|
 
 $$
 \begin{array}{c|c}
 性质&
 \begin{array}{r|c}
+性质&\begin{array}{c|c}
+a\gt0&a\lt0
+\end{array}\\\hline
 \begin{array}{c}
 开口\\方向
 \end{array}&
