@@ -35,7 +35,7 @@ $$
 \end{array}
 $$
 
-![t1_1](pics/T1_1.svg) ![t1_2](pics/T1_2.svg)|
+![t1_1](pics/T1_1.svg) ![t1_2](pics/T1_2.svg)
 
 $$
 \begin{array}{c|c}
