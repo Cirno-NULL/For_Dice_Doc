@@ -26,7 +26,7 @@ $$
 (1.3)&\Delta\lt0\leftrightarrow方程{\color{red}{没有}}实数根；\\\hdashline
 (1.4)&\Delta\ge0\leftrightarrow方程{\color{red}{有}}实数根。\\\hline
 (2)&根与系数的关系：\\
-&\large ax^2+bx+c=0(a\neq0)的两根为\mathop{{x}}\nolimits_{{1}}，\mathop{{x}}\nolimits_{{2}}，\\
-&那么\Large\mathop{{x}}\nolimits_{{1}}+\mathop{{x}}\nolimits_{{2}}=-\frac{b}{a}，\mathop{{x}}\nolimits_{{1}}\mathop{{x}}\nolimits_{{2}}=\frac{c}{a}
+&ax^2+bx+c=0(a\neq0)\normalsize的两根为x_1，x_2，\\
+&那么x_1+x_2=-\Large\frac{b}{a}\normalsize，x_1\times{x_2}=\Large\frac{c}{a}
 \end{array}
 $$
