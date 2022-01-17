@@ -16,6 +16,9 @@
 
 ## 二次函数的图像与性质
 
+尝试一下行内公式第二弹      
+内嵌的Katex效果$$E=mc^2$$就是这样
+
 $$
 \begin{array}{r l l l } 1.&二次函数y=ax^2+bx+c\\ &(a,b,c为常数，a\neq0)的图像是一条\\ &{\color{red}{抛物线}}\\\hdashline 2.&二次函数y=ax^2+bx+c\\ &(a,b,c为常数，a\neq0)的性质： \end{array}
 $$
