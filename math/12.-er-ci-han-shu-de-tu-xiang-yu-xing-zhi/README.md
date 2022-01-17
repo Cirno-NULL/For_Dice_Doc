@@ -2,10 +2,13 @@
 
 1.  二次函数的解析式主要有三种形式：
 
-    $$
-    \begin{array}{r l l l} 一般式&y=ax^2+bx+c\\ &(a,b,c为常数，且a\neq0)\\\hdashline 顶点式&y=a(x-h)^2+k\\ &(a,h,k为常数，且a\neq0)，\\ &其中抛物线的顶点为(h,k)。\\\hdashline 交点式&设抛物线与x轴交于\\ &点A(x_1,0)，B(x_2,0)，\\ &则抛物线的函数解析式为\\ &y=a(x-x_1)(x-x_2)(a\neq0) \end{array}
-    $$
-2. 求二次函数的解析式时，\
+| 类型| 公式&介绍 |
+|-|-|
+| 一般式 | $y=ax^2+bx+c\\(a,b,c为常数，且a\neq0)$ |
+| 顶点式 | $y=a(x-h)^2+k\\(a,h,k为常数，且a\neq0)$ |
+| 交点式 | 设抛物线与x轴交于<br>点$A(x_1,0)$，$B(x_2,0)$<br>则抛物线的函数解析式为<br>$y=a(x-x_1)(x-x_2)(a\neq0)$ |
+
+1. 求二次函数的解析式时，\
    应根据所给条件，\
    灵活选择函数解析式，\
    然后用待定系数法求出未知系数的值。
@@ -15,16 +18,16 @@
       可设为交点式或一般式。
 
 ## 二次函数的图像与性质
+1. 二次函数$y=ax^2+bx+c\\(a,b,c为常数，a\neq0)$    
+的图像是一条${\color{red}{抛物线}}$
+2.二次函数$y=ax^2+bx+c\\(a,b,c为常数，a\neq0)$的性质：
 
-尝试一下行内公式第二弹      
-内嵌的Katex效果$$E=mc^2$$就是这样
-
-$$
-\begin{array}{r l l l } 1.&二次函数y=ax^2+bx+c\\ &(a,b,c为常数，a\neq0)的图像是一条\\ &{\color{red}{抛物线}}\\\hdashline 2.&二次函数y=ax^2+bx+c\\ &(a,b,c为常数，a\neq0)的性质： \end{array}
-$$
-
-![t1\_1](pics/T1\_1.svg) ![t1\_2](pics/T1\_2.svg)
-
-$$
-\begin{array}{c|c} 性质& \begin{array}{r|c} 性质&\begin{array}{c|c} a\gt0&a\lt0 \end{array}\\\hline \begin{array}{c} 开口\\方向 \end{array}& \begin{array}{c|c} 开口向上，并向上&开口向下，并向下\\ 方无限延伸&方无限延伸 \end{array} \\\hline 对称轴&x=\LARGE-\frac{b}{2a}\\\hline \begin{array}{}顶点\\坐标\end{array} &\LARGE(-\frac{b}{2a},\frac{4ac-b^2}{4a})\\\hline 增减性&\begin{array}{} \begin{array}{c|c} \begin{array}{} 当x\gt-\Large{\frac{b}{2a}}\normalsize时\\ y随x的增大而{\color{red}{增大}} \\当x\lt-\Large{\frac{b}{2a}}\normalsize时\\ y随x的增大而{\color{red}{减小}} \end{array} &\begin{array}{} 当x\gt-\Large{\frac{b}{2a}}\normalsize时\\ y随x的增大而{\color{red}{减小}}\\ 当x\lt-\Large{\frac{b}{2a}}\normalsize时\\ y随x的增大而{\color{red}{增大}} \end{array} \end{array} \end{array}\\\hline 最值&\begin{array}{c|c} \begin{array}{} 当x=-\Large{\frac{b}{2a}}\normalsize时\\ y有最小值，\\ y_{min}=\Large\frac{4ac-b^2}{4a} \end{array} &\begin{array}{} 当x=-\Large{\frac{b}{2a}}\normalsize时\\ y有最大值，\\ y_{max}=\Large\frac{4ac-b^2}{4a} \end{array} \end{array} \end{array} \end{array}
-$$
+| | $a\gt0$ | $a\lt0$ |
+|- | - | - |
+|图像 | ![t1\_1](pics/T1\_1.svg) |  ![t1\_2](pics/T1\_2.svg) |
+|  | 性质 |  |
+| 开口<br>方向 | 开口向上，并向上方无限延伸|开口向下，并向下方无限延伸|
+| 对称轴 | $x=\LARGE-\frac{b}{2a}$ | $x=\LARGE-\frac{b}{2a}$ |
+|顶点<br>坐标 |$\LARGE(-\frac{b}{2a},\frac{4ac-b^2}{4a})$ | $\LARGE(-\frac{b}{2a},\frac{4ac-b^2}{4a})$ |
+| 增减性 | 当$x\gt-\Large{\frac{b}{2a}}$时<br>y随x的增大而${\color{red}{增大}}$<br>当$x\lt-\Large{\frac{b}{2a}}$时<br>y随x的增大而${\color{red}{减小}} $ | 当$x\gt-\Large{\frac{b}{2a}}$时<br>y随x的增大而${\color{red}{减小}}$<br>当$x\lt-\Large{\frac{b}{2a}}$时<br>y随x的增大而${\color{red}{增大}} $ |
+|最值 | 当$x=-\Large{\frac{b}{2a}}$时<br>y有$\color{red}{最小值}$，<br>$y_{min}=\Large\frac{4ac-b^2}{4a}$ | 当$x=-\Large{\frac{b}{2a}}$时<br>y有$\color{red}{最大值}$，<br>$y_{max}=\Large\frac{4ac-b^2}{4a}$ |
