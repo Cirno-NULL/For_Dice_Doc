@@ -73,12 +73,12 @@ $$
 |分式的乘除|$$\Large \frac{a}{b}*\frac{d}{c}=\frac{ad}{bc}$$|$$\Large \frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$$|
 |分式的乘方|$$\Large (\frac{a}{b})^n=\frac{a^n}{b^n}$$(n为整数)|
 
-#### 分式的混合运算
-在分式的混合运算中，
-应先算$$\color{red}{乘方}$$，再算$$\color{red}{乘除}$$
-进行约分化简后，
-最后进行$$\color{red}{加减}$$运算，
-遇到有括号的，先算$$\color{red}{括号内}$$的，
-分式运算的结果一定要是$$\color{red}{最简}$$分式或$$\color{red}{整式}$$
+#### 分式的混合运算     
+在分式的混合运算中，        
+应先算$$\color{red}{乘方}$$，再算$$\color{red}{乘除}$$      
+进行约分化简后，        
+最后进行$$\color{red}{加减}$$运算，     
+遇到有括号的，先算$$\color{red}{括号内}$$的，       
+分式运算的结果一定要是$$\color{red}{最简}$$分式或$$\color{red}{整式}$$      
 
 
