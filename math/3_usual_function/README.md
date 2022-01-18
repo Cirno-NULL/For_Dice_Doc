@@ -56,6 +56,7 @@ $$
 1. 如果A，B表示两个$$\color{red}{整式}$$，并且B中含有$$\color{red}{字母}$$，那么式子A/B叫做分式。
 2. 当$$\color{red}{B≠0}$$时，分式$$\color{red}{A/B}$$才有意义。
 3. 当$$\color{red}{A=0}$$且$$\color{red}{B≠0}$$时，分式$$\color{red}{A/B}$$的值为$$\color{red}{0}$$
+
 ### 分式的基本性质
 
 | | |
@@ -71,6 +72,7 @@ $$
 | 分式的加减 | $$\Large\frac{b}{a}\pm\frac{c}{a}=\frac{b\pm{c}}{a}$$ |$$\Large \frac{b}{a}\pm\frac{d}{c}=\frac{bc\pm{ad}}{ac}$$ |
 |分式的乘除|$$\Large \frac{a}{b}*\frac{d}{c}=\frac{ad}{bc}$$|$$\Large \frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$$|
 |分式的乘方|$$\Large (\frac{a}{b})^n=\frac{a^n}{b^n}$$(n为整数)|
+
 #### 分式的混合运算
 在分式的混合运算中，
 应先算$$\color{red}{乘方}$$，再算$$\color{red}{乘除}$$
