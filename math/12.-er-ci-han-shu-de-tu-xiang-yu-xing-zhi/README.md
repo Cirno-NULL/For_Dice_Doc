@@ -5,8 +5,8 @@
 | 类型| 公式&介绍 |
 |-|-|
 | 一般式 | $$y=ax^2+bx+c\\(a,b,c为常数，且a\neq0)$$ |
-| 顶点式 | $y=a(x-h)^2+k\\(a,h,k为常数，且a\neq0)$ |
-| 交点式 | 设抛物线与x轴交于<br>点$A(x_1,0)$，$B(x_2,0)$<br>则抛物线的函数解析式为<br>$y=a(x-x_1)(x-x_2)(a\neq0)$ |
+| 顶点式 | $$y=a(x-h)^2+k\\(a,h,k为常数，且a\neq0)$$ |
+| 交点式 | 设抛物线与x轴交于<br>点$$A(x_1,0)$$，$$B(x_2,0)$$<br>则抛物线的函数解析式为<br>$$y=a(x-x_1)(x-x_2)(a\neq0)$$ |
 
 1. 求二次函数的解析式时，\
    应根据所给条件，\
@@ -18,16 +18,16 @@
       可设为交点式或一般式。
 
 ## 二次函数的图像与性质
-1. 二次函数$y=ax^2+bx+c\\(a,b,c为常数，a\neq0)$    
-的图像是一条${\color{red}{抛物线}}$
-2.二次函数$y=ax^2+bx+c\\(a,b,c为常数，a\neq0)$的性质：
+1. 二次函数$$y=ax^2+bx+c\\(a,b,c为常数，a\neq0)$$    
+的图像是一条$${\color{red}{抛物线}}$$
+2.二次函数$$y=ax^2+bx+c\\(a,b,c为常数，a\neq0)$$的性质：
 
-| | $a\gt0$ | $a\lt0$ |
+| | $$a\gt0$$ | $$a\lt0$$ |
 |- | - | - |
 |图像 | ![t1\_1](pics/T1\_1.svg) |  ![t1\_2](pics/T1\_2.svg) |
 |  | 性质 |  |
 | 开口<br>方向 | 开口向上，并向上方无限延伸|开口向下，并向下方无限延伸|
-| 对称轴 | $x=\LARGE-\frac{b}{2a}$ | $x=\LARGE-\frac{b}{2a}$ |
-|顶点<br>坐标 |$\LARGE(-\frac{b}{2a},\frac{4ac-b^2}{4a})$ | $\LARGE(-\frac{b}{2a},\frac{4ac-b^2}{4a})$ |
-| 增减性 | 当$x\gt-\Large{\frac{b}{2a}}$时<br>y随x的增大而${\color{red}{增大}}$<br>当$x\lt-\Large{\frac{b}{2a}}$时<br>y随x的增大而${\color{red}{减小}} $ | 当$x\gt-\Large{\frac{b}{2a}}$时<br>y随x的增大而${\color{red}{减小}}$<br>当$x\lt-\Large{\frac{b}{2a}}$时<br>y随x的增大而${\color{red}{增大}} $ |
-|最值 | 当$x=-\Large{\frac{b}{2a}}$时<br>y有$\color{red}{最小值}$，<br>$y_{min}=\Large\frac{4ac-b^2}{4a}$ | 当$x=-\Large{\frac{b}{2a}}$时<br>y有$\color{red}{最大值}$，<br>$y_{max}=\Large\frac{4ac-b^2}{4a}$ |
+| 对称轴 | $$x=\LARGE-\frac{b}{2a}$$ | $$x=\LARGE-\frac{b}{2a}$$ |
+|顶点<br>坐标 |$$\LARGE(-\frac{b}{2a},\frac{4ac-b^2}{4a})$$ | $$\LARGE(-\frac{b}{2a},\frac{4ac-b^2}{4a})$$ |
+| 增减性 | 当$$x\gt-\Large{\frac{b}{2a}}$$时<br>y随x的增大而$${\color{red}{增大}}$$<br>当$$x\lt-\Large{\frac{b}{2a}}$$时<br>y随x的增大而$${\color{red}{减小}} $$ | 当$$x\gt-\Large{\frac{b}{2a}}$$时<br>y随x的增大而$${\color{red}{减小}}$$<br>当$$x\lt-\Large{\frac{b}{2a}}$$时<br>y随x的增大而$${\color{red}{增大}} $$ |
+|最值 | 当$$x=-\Large{\frac{b}{2a}}$$时<br>y有$$\color{red}{最小值}$$，<br>$$y_{min}=\Large\frac{4ac-b^2}{4a}$$ | 当$$x=-\Large{\frac{b}{2a}}$$时<br>y有$$\color{red}{最大值}$$，<br>$$y_{max}=\Large\frac{4ac-b^2}{4a}$$ |
