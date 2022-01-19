@@ -1,8 +1,8 @@
 # 开方&根式
 
 ## 平方根与立方根
-1. 若x²=a，则x是a的$\color{red}{平方根}$；若$x^3=a$，则x是a的$\color{red}{立方}$根。
-2. 正数的平方根有两个，它们互为$\color{red}{相反数}$，     
+1. 若x²=a，则x是a的$$\color{red}{平方根}$$；若$$x^3=a$$，则x是a的$$\color{red}{立方}$$根。
+2. 正数的平方根有两个，它们互为$$\color{red}{相反数}$$，     
    0的平方根是0，       
    负数没有平方根`（等我学到虚数再回来看看要不要改）。`       
 3. 任意实数都有立方根，    
@@ -19,8 +19,8 @@
 ## 二次根式的性质
 | 序号 | 公式 | 界定 |
 |-|-|-|
-|①|$(\sqrt{a})^2=a(a\ge0)$ |
-|②|$\sqrt{a^2}=\left \| a \right \| = \begin{cases}a(a\ge0)\\-a(a\le0)\end{cases}$
-|③| $\sqrt{ab} = \sqrt{a}*\sqrt{b}$|$(a\ge0,b\ge0) $
-|④| $\Large{\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}}$|$(a\ge0,b\ge0)$|
-|⑤|$\sqrt{a}\ge0(a\ge0) $|
+|①|$$(\sqrt{a})^2=a(a\ge0)$$ |
+|②|$$\sqrt{a^2}=\left \| a \right \| = \begin{cases}a(a\ge0)\\-a(a\le0)\end{cases}$$
+|③| $$\sqrt{ab} = \sqrt{a}*\sqrt{b}$$|$$(a\ge0,b\ge0) $$
+|④| $$\Large{\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}}$$|$$(a\ge0,b\ge0)$$|
+|⑤|$$\sqrt{a}\ge0(a\ge0) $$|
