@@ -2,15 +2,12 @@
 
 ## 不等式的基本性质
 
-$$
-\begin{array}{r:l:l:l}
-&不等式的基本性质\\\hline
-性质1&若a\gt{b},则a\pm{c}\gt{b}\pm{c}\\\hdashline
-性质2&若a\gt{b}，c\gt0，则ac\ge{bc}，\Large\frac{a}{c}\ge\frac{b}{c}\\\hdashline
-性质3&若a\ge{b}，c\le0，则ac\le{bc}，\Large\frac{a}{c}\le\frac{b}{c}\\\hdashline
-同向传递性&若a>b，b>c，则a>c
-\end{array}
-$$
+| 性质 | 注解 |
+|- |- |
+| 性质1|$$若a\gt{b}，\\则a\pm{c}\gt{b}\pm{c}$$ |
+|性质2|$$若a\gt{b}，c\gt0，\\则ac\ge{bc}，\Large\frac{a}{c}\ge\frac{b}{c}$$|
+|性质3|$$若a\ge{b}，c\le0，\\则ac\le{bc}，\Large\frac{a}{c}\le\frac{b}{c}$$|
+|同向传递性|$$若a>b，b>c，\\则a>c$$|
 
 ## 一元一次不等式(组)的解法
 

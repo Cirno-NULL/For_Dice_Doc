@@ -61,7 +61,7 @@ $$
 
 | | |
 |- | - |
-|分式的基本性质| $$\Large\frac{A}{B}=\frac{A*C}{B*C}\hspace{15pt}\frac{A}{B}=\frac{A\div{C}}{B\div{C}}$$|
+|分式的基本性质| $$\large\frac{A}{B}=\frac{A*C}{B*C}\hspace{15pt}\frac{A}{B}=\frac{A\div{C}}{B\div{C}}$$|
 |约分|将分式中分子与分母的$$\color{red}{公因式}$$约去<br>使分式化为最简分式或整式|
 |通分|化异分母的分式为同分母的分式|
 
