@@ -40,4 +40,16 @@
 
 将抛物线$$y=ax^2+bx+c(a\neq0)$$     
 用配方法化成$$y=a(x-h)^2+k(a\neq0)$$的解形式，     
-而任意抛物线$$y=a(x-h)^2+k$$均可由抛物线$$y=ax^2$$得到
+而任意抛物线$$y=a(x-h)^2+k$$
+均可由抛物线$$y=ax^2$$得到
+
+## 二次函数的图像与$$a,b,c$$的关系
+
+1. 二次函数$$y=ax^2+bx+c(a,b,c为常数，a\neq0)$$
+   的系数符号与其图像有如下对应关系
+
+| 系数 | 影响因素 |
+| - | - |
+| a | $$a\gt0\leftrightarrow$$抛物线开口向上；$$a\lt0\leftrightarrow$$抛物线开口向下 |
+| b | 抛物线的对称轴为$$x=-\frac{b}{2a}$$<br>$$a,b同号\leftrightarrow$$对称轴在$$y$$轴的左侧，<br>$$a,b异号\leftrightarrow$$对称轴在$$y$$轴的右侧，<br>$$\color{red}{b=0}$$$$\leftrightarrow$$对称轴为$$y$$轴 |
+| c | 抛物线与$$y$$轴的焦点为$$(0,c)$$；<br>$$c\gt0\leftrightarrow$$抛物线与$$y$$的正半轴相交；<br>$$c=0\leftrightarrow$$抛物线过$$\color{red}{原点}$$；<br>$$c\lt0\leftrightarrow$$抛物线与$$y$$的负半轴相交
