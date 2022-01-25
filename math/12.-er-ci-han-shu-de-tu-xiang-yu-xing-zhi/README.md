@@ -3,11 +3,11 @@
 ## 二次函数的解析式
 1.  二次函数的解析式主要有三种形式：
    
-   | 类型| 公式&介绍 |
-   |-|-|
-   | 一般式 | $$y=ax^2+bx+c\\(a,b,c为常数，且a\neq0)$$ |
-   | 顶点式 | $$y=a(x-h)^2+k\\(a,h,k为常数，且a\neq0)$$ |
-   | 交点式 | 设抛物线与x轴交于<br>点$$A(x_1,0)$$，$$B(x_2,0)$$<br>则抛物线的函数解析式为<br>$$y=a(x-x_1)(x-x_2)(a\neq0)$$ |
+   | 类型| 公式&介绍 | 项介绍 |
+   |-|-| - | - |
+   | 一般式 | $$y=ax^2+bx+c\\(a,b,c为常数，且a\neq0)$$ | a决定开口方向<br>x轴交点:$$\left(\Large\frac{-b\pm\sqrt{b^{2}-4ac}}{2a}\normalsize,0\right)$$<br>y轴交点:$$\left(0,c\right)$$<br>顶点:$$(\Large-\frac{b}{2a},\frac{4ac-b^2}{4a}\normalsize)$$ |
+   | 顶点式 | $$y=a(x-h)^2+k\\(a,h,k为常数，且a\neq0)$$ | a是开口朝向<br>h是顶点的x<br>k是顶点的y<br>x轴交点$$\left(\pm\sqrt{-\frac{k}{a}}+h,0\right)$$<br>y轴交点$$\left(0,ah^{2}+k\right)$$<br>顶点$$\left(h,k\right)$$ |
+   | 交点式 | 设抛物线与x轴交于<br>点$$A(x_1,0)$$，$$B(x_2,0)$$<br>则抛物线的函数解析式为<br>$$y=a(x-x_1)(x-x_2)(a\neq0)$$ | a是开口方向<br>x轴交点$$(x_1,0),(x_2,0)$$<br>y轴交点:$$\left(0,ax_{1}x_{2}\right)$$<br>顶点:$$\Large\left(\frac{x_{2}+x_{1}}{2},-\frac{a\left(x_{2}-x_{1}\right)^{2}}{4}\right)$$ |
 
 2. 求二次函数的解析式时，\
    应根据所给条件，\
