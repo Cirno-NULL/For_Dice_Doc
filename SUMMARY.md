@@ -7,6 +7,7 @@
   * [加密算法](data-structure/encryption-algorithm.md)
 * [硬件](hardware/README.md)
   * [SD卡](hardware/sdcard.md)
+  * [显示器](hardware/xian-shi-qi.md)
 * [安卓](android/README.md)
   * [投屏和控制工具](android/control.md)
   * [模拟器](android/vitural-android.md)
