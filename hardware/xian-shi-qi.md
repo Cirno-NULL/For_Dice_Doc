@@ -1,7 +1,7 @@
 # 显示器
 
-目前仅有的认知:     
-显示器有面板,接口的区别     
+目前仅有的认知:    
+显示器有面板,接口的区别    
 
 # 一些很有价值的文章
 
@@ -20,10 +20,10 @@
 
 ## LCD&LED的概念
 
-LCD（Liquid Crystal Ddisplay）液晶显示器			
-LED（Light Emitting Diode）发光二极管			
-OLED（OrganicLight-Emitting Diode）有机发光二极管		
-LED是属于LCD显示器里的一个发光器件		
+LCD（Liquid Crystal Ddisplay）液晶显示器    
+LED（Light Emitting Diode）发光二极管    
+OLED（OrganicLight-Emitting Diode）有机发光二极管    
+LED是属于LCD显示器里的一个发光器件    
 
 # 各种面板对比
 
@@ -38,5 +38,5 @@ LED是属于LCD显示器里的一个发光器件
 | 平面视角     | 极限160°<br>补偿膜后<br/>对比度为10∶1的情况下 | 160°以上 | 170°以上 | 垂直170°<br>水平178° |
 | 分辨方式 | 轻按水波纹 | 轻按梅花纹 | 无水纹 | 无水纹 |
 
-此处各种数据或有疏漏		
+此处各种数据或有疏漏    
 但已经是我在三个小时内找到的所有内容了
