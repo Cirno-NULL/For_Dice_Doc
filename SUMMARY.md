@@ -64,6 +64,8 @@
   * [脚本语言](languages/jiao-ben-yu-yan/README.md)
     * [Lua](languages/jiao-ben-yu-yan/lua/README.md)
       * [基础](languages/jiao-ben-yu-yan/lua/basic.md)
+    * [JavaScript](languages/jiao-ben-yu-yan/javascript/README.md)
+      * [基础](languages/jiao-ben-yu-yan/javascript/basic.md)
   * [数据库](languages/sql/README.md)
     * [Sqlite](languages/sql/sqlite.md)
     * [Oracle](languages/sql/oracle.md)
