@@ -68,10 +68,10 @@ print("testf")
 
 ## 行与缩进
 
-python的代码块不再使用`{}`表示代码块\
-取而代之的是缩进\
-缩进的空格数是可变的\
-但是同一个代码块的语句必须包含相同的缩进空格数。
+python的代码块不再使用`{}`表示代码块    
+取而代之的是缩进    
+缩进的空格数是可变的    
+但是同一个代码块的语句必须包含相同的缩进空格数。    
 
 * tab和四个空格看起来相同，但是不是相同的缩进。
 
@@ -92,9 +92,9 @@ else:
 
 ## 多行语句
 
-Python 通常是一行写完一条语句\
-但是如果语句很长的话\
-可以使用反斜杠`\`来实现多行语句\
+Python 通常是一行写完一条语句   
+但是如果语句很长的话    
+可以使用反斜杠`\`来实现多行语句   
 括号内的不需要使用`\`
 
 ```py
@@ -156,18 +156,101 @@ print(r'hello\nrunoob')     # 在字符串前面添加一个 r，表示原始字
 
 
 ### 空行
-函数之间或类的方法之间用空行分隔，表示一段新的代码的开始。  
-类和函数入口之间也用一行空行分隔，以突出函数入口的开始。
+函数之间或类的方法之间用空行分隔，表示一段新的代码的开始。    
+类和函数入口之间也用一行空行分隔，以突出函数入口的开始。    
 
-空行与代码缩进不同，空行并不是 Python 语法的一部分。  
+空行与代码缩进不同，空行并不是 Python 语法的一部分。    
 书写时不插入空行，Python 解释器运行也不会出错。   
 但是空行的作用在于分隔两段不同功能或含义的代码，便于日后代码的维护或重构。    
 
 记住：**空行也是程序代码的一部分。**
 
 ### 等待用户输入
-执行下面的程序在按回车键后就会等待用户输入：
-
 ```python
 input("\n\n按下 enter 键后退出。")
+```
+
+### 同一行输入多条语句
+
+```py
+import sys; x = 'runoob'; sys.stdout.write(x + '\n')
+```
+
+### 多个语句构成代码组
+缩进相同的一组语句构成一个代码块，我们称之代码组。    
+像`if`、`while`、`def`和`class`这样的复合语句，   
+首行以关键字开始，以冒号结束，    
+该行之后的一行或多行代码构成代码组。    
+我们将首行及后面的代码组称为一个子句(clause)。    
+```py
+if expression : 
+   suite
+elif expression : 
+   suite 
+else : 
+   suite
+```
+
+### print 输出
+print 默认输出是换行的，    
+如果要实现不换行需要在变量末尾加上 end=""：
+
+```py
+x="a"
+y="b"
+# 换行输出
+print( x )
+print( y )
+ 
+print('---------')
+# 不换行输出
+print( x, end=" " )
+print( y, end=" " )
+print()
+```
+
+### import 与 from...import
+在 python 用 import 或者 from...import 来导入相应的模块。
+
+将整个模块(somemodule)导入    
+格式为： `import somemodule`    
+
+从某个模块中导入某个函数    
+格式为： `from somemodule import somefunction`    
+
+从某个模块中导入多个函数    
+格式为： `from somemodule import firstfunc, secondfunc, thirdfunc`    
+
+将某个模块中的全部函数导入    
+格式为： `from somemodule import *`   
+```py
+#导入 sys 模块
+import sys
+print('================Python import mode==========================')
+print ('命令行参数为:')
+for i in sys.argv:
+    print (i)
+print ('\n python 路径为',sys.path)
+
+#导入 sys 模块的 argv,path 成员
+from sys import argv,path  #  导入特定的成员
+ 
+print('================python from import===================================')
+print('path:',path) # 因为已经导入path成员，所以此处引用时不需要加sys.path
+```
+
+### 命令行参数
+很多程序可以执行一些操作来查看一些基本信息    
+Python可以使用-h参数查看各参数帮助信息：
+
+```py
+$ python -h
+usage: python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Options and arguments (and corresponding environment variables):
+-c cmd : program passed in as string (terminates option list)
+-d     : debug output from parser (also PYTHONDEBUG=x)
+-E     : ignore environment variables (such as PYTHONPATH)
+-h     : print this help message and exit
+
+[ etc. ]
 ```
