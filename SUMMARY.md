@@ -46,6 +46,8 @@
 * [pc](pc/README.md)
   * [System](pc/system/README.md)
     * [linux](pc/system/linux/README.md)
+      * [通用指令](pc/system/linux/tong-yong-zhi-ling/README.md)
+        * [权限、用户](pc/system/linux/tong-yong-zhi-ling/quan-xian-yong-hu.md)
       * [通用工具](pc/system/linux/usual\_instruction/README.md)
         * [screen](pc/system/linux/usual\_instruction/screen.md)
       * [CentOs](pc/system/linux/centos/README.md)
