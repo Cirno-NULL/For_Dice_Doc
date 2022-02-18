@@ -53,6 +53,7 @@
       * [CentOs](pc/system/linux/centos/README.md)
         * [Untitled](pc/system/linux/centos/untitled.md)
       * [Ubuntu](pc/system/linux/ubuntu/README.md)
+        * [工具网站](pc/system/linux/ubuntu/gong-ju-wang-zhan.md)
         * [Adguard Home](pc/system/linux/ubuntu/adguard-home.md)
     * [Windows](pc/system/windows/README.md)
       * [输入法](pc/system/windows/ime.md)
