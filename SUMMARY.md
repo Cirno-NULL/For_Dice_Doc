@@ -72,6 +72,7 @@
     * [C](languages/bian-yi-lei-yu-yan/c/README.md)
       * [test](languages/bian-yi-lei-yu-yan/c/test.md)
     * [Python](languages/bian-yi-lei-yu-yan/python/README.md)
+      * [一些pip相关的问题](languages/bian-yi-lei-yu-yan/python/yi-xie-pip-xiang-guan-de-wen-ti.md)
       * [基础语法](languages/bian-yi-lei-yu-yan/python/ji-chu-yu-fa/README.md)
         * [基本数据类型](languages/bian-yi-lei-yu-yan/python/ji-chu-yu-fa/ji-ben-shu-ju-lei-xing.md)
         * [数据类型转换](languages/bian-yi-lei-yu-yan/python/ji-chu-yu-fa/shu-ju-lei-xing-zhuan-huan.md)
