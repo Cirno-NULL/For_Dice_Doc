@@ -29,3 +29,8 @@ Ctrl+a d
 ```
 screen -dmS screen名称
 ```
+
+### 强制关闭screen
+```
+screen -S screen名称 -X quit
+```
