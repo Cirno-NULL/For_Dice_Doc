@@ -1,6 +1,7 @@
 # Table of contents
 
 * [大概是笔记](README.md)
+  * [转载文章](readme/copys.md)
 * [数据结构与算法](data-structure/README.md)
   * [数据结构](data-structure/data-structure.md)
     * [线性表](<data-structure/data-structure/linear list/README.md>)
