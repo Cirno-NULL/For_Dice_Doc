@@ -68,6 +68,7 @@
       * [剪贴板](pc/system/windows/clipboard.md)
       * [开机自启](pc/system/windows/start.md)
   * [磁盘和引导](pc/disk-and-boot.md)
+* [安全](Safe.md)
 * [计算机语言](languages/README.md)
   * [版本控制](languages/ban-ben-kong-zhi/README.md)
     * [git](languages/ban-ben-kong-zhi/git.md)
