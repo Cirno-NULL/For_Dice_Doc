@@ -1,6 +1,4 @@
-# 安全
-
-### 应对挖矿木马
+# 应对挖矿木马
 
 [挖矿木马自助清理手册](https://s.tencent.com/research/report/168)
 
